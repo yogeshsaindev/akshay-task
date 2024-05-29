@@ -1,0 +1,11 @@
+/*
+    Custom Css
+*/
+
+.error{
+    outline:1px solid red;
+}
+
+.error-message{
+    color:red;
+}
